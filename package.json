@@ -1,0 +1,28 @@
+{
+  "name": "dsa-typescript",
+  "version": "1.0.0",
+  "description": "- Read through the problem thoroughly\r - Check if they fit any of the patterns that have been previously gone through.\r - If the problem fits any pattern, understand the constraints and solve through.\r - If not, find the bruteforce algorithm of acheving the solution, then, understand how to optimize it slowly. \r - Document them and revise them without fail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishkumar-m/dsa-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ashishkumar-m/dsa-typescript/issues"
+  },
+  "homepage": "https://github.com/ashishkumar-m/dsa-typescript#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.4.11",
+    "typescript": "^6.0.3"
+  }
+}
